@@ -1,10 +1,10 @@
 def weatherMessage(temp, low, med):
 	if temp < 3:
-		print ("wear wool trousers")
+		print ("Do stuff")
 	elif temp < 10:
-		print ("wear trousers")
+		print ("Do things")
 	else:
-		print ("wear shorts")
+		print ("Wander around in a bemused fashion")
 
 weatherMessage (15, 7, 15)
 
